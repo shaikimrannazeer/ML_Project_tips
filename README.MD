@@ -30,7 +30,7 @@ pip install -r requirements.txt # install
 # git add backend/ frontend/ README.MD
 # git commit -m "v1"
 
-git remote add origin https://github.com/mujeebr/Ml_Project_Bidar.git
+git remote add origin https://github.com/shaikimrannazeer/ML_Project_tips.git
 git branch -M main
 git push -u origin main
 
